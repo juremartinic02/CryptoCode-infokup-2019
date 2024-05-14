@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FPS death and scoring/Assets/scene1/Pikachu_01.unity
+  isLoaded: 1
+  isActive: 1
